@@ -1,0 +1,17 @@
+name: mnist_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflow
+  - keras
+  - jupyterlab>=4
+  # Ploting
+  - matplotlib
+  - seaborn
+
