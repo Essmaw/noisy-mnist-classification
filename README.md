@@ -71,4 +71,4 @@ Open the `noisy_mnist_classification.ipynb` notebook to run the analyze by yours
 
 You can also try running the notebook on Google Colab without needing to set up the environment locally. Click the badge below to get started:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tvZtvmC6X1vtMZ4DrU6Do81TQ-g9TWo8?hl=fr#scrollTo=R-NzS-RUSMrk]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tvZtvmC6X1vtMZ4DrU6Do81TQ-g9TWo8?hl=fr)
